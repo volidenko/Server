@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "A simple server ",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volidenko/Lab_10_Angular.git"
+  },
+  "author": "Volodymyr G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/volidenko/Lab_10_Angular/issues"
+  },
+  "homepage": "https://github.com/volidenko/Lab_10_Angular#readme"
+}
