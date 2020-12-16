@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "A simple server ",
+  "description": "",
   "main": "app.js",
   "dependencies": {
     "express": "^4.17.1"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/volidenko/Lab_10_Angular.git"
   },
-  "author": "Volodymyr G",
+  "author": "volidenko",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/volidenko/Lab_10_Angular/issues"
